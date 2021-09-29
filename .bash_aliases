@@ -3,6 +3,8 @@
 alias dp='cd /mnt/c/Users/HP/Desktop'
 alias dd='cd /mnt/d/'
 alias rmf='rm -rf'
+alias lsa='ls -ah'
+alias lsla='ls -lah'
 alias ..='cd ..'
 alias ...='cd ../../'
 alias ....='cd ../../../'
