@@ -12,6 +12,7 @@ alias ....='cd ../../../'
 #Alias related
 alias updatealias='source ~/.bash_aliases'
 alias editalias="nano ~/.bash_aliases"
+alias viewalias='cat ~/.bash_aliases'
 
 #screen related
 alias clr='clear'
