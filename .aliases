@@ -1,4 +1,4 @@
-# directory related
+# directory relate
 
 alias dp='cd /mnt/c/Users/HP/Desktop'
 alias dd='cd /mnt/d/'
@@ -10,21 +10,19 @@ alias ...='cd ../../'
 alias ....='cd ../../../'
 
 #Alias related
-alias updatealias='source ~/.bash_aliases'
-alias editalias="nano ~/.bash_aliases"
-alias viewalias='cat ~/.bash_aliases'
+alias updatealias='source ~/.aliases'
+alias editalias="nano ~/.aliases"
+alias viewalias='cat ~/.aliases'
 
 #screen related
 alias clr='clear'
 
 #python related
-alias python=python3
-alias jl='jupyter lab'
 alias pes="pipenv shell"
 alias pesync='pipenv sync'
 alias per='pipenv run'
 alias pei="pipenv install"
-alias pejl='pipenv run jupyter lab'
+alias peu="pipenv uninstall"
 
 #git related
 alias gipy="wget -q -O .gitignore 'https://www.gitignore.io/api/python,jupyternotebooks,visualstudiocode'"
